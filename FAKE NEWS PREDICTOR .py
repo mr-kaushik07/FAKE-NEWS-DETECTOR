@@ -10,7 +10,7 @@ import pandas as pd
 # In[4]:
 
 
-data=pd.read_csv('C:\Users\hp\Desktop\Fake.csv')
+data=pd.read_csv()     # DATASET LINK IS IN README 
 
 
 # In[5]:
